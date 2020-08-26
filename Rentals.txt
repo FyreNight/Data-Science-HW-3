@@ -1,0 +1,501 @@
+kayak_id	cust_id	day_number	day	duration_hours	notes
+4	19	1	Sun	2	satisfied
+5	10	1	Sun	2.5	
+5	13	1	Sun	2.25	satisfied
+20	9	1	Sun	3	
+14	6	2	Mon	3.75	careful happy
+16	4	2	Mon	3.75	tips tired
+16	20	2	Mon	2	hot argued tipped-over
+3	19	3	Tues	2.1	
+19	18	3	Tues	2	helpful satisfied tired late non-payment
+4	14	4	Wed	4.25	rude
+6	13	4	Wed	1.5	careful
+14	12	4	Wed	2.1	happy
+3	18	5	Thur	2	careful fun tired no-show non-payment
+4	16	5	Thur	2.5	
+6	1	5	Thur	9.2	careful
+14	19	5	Thur	2.5	helpful polite bored
+2	17	6	Fri	2	tips happy
+5	10	7	Sat	4.25	
+8	17	7	Sat	1	helpful happy
+13	9	7	Sat	0.75	tired
+15	9	7	Sat	1.75	injured
+8	4	8	Sun	0.6	hot non-payment
+9	20	8	Sun	3	bored tipped-over
+13	4	8	Sun	1	bored rude
+16	1	8	Sun	4.5	polite
+16	18	8	Sun	2	careful polite bored no-show lost-paddle
+17	2	8	Sun	2	tired
+20	14	8	Sun	1.75	
+13	9	9	Mon	1.75	satisfied bored
+4	17	10	Tues	1.75	tips happy
+10	19	10	Tues	2.5	helpful tired
+14	2	10	Tues	7	tips
+14	19	10	Tues	0.5	careful fun
+15	5	10	Tues	2	
+18	18	10	Tues	2	tips fun hot no-show non-payment
+3	16	11	Wed	2	tired
+4	19	11	Wed	6	tips bored
+5	5	11	Wed	2	helpful satisfied no-show
+6	20	11	Wed	1.75	bored no-show lost-paddle
+10	11	11	Wed	2.5	tips bored
+12	13	11	Wed	2	
+13	7	11	Wed	4.25	bored late
+16	10	11	Wed	0.5	polite no-show
+17	9	11	Wed	6	fun
+18	16	11	Wed	2	
+19	12	11	Wed	1.5	helpful polite rude
+3	4	12	Thur	2.25	tired
+7	6	12	Thur	6	careful happy
+11	18	12	Thur	6	helpful friendly hot argued damage
+16	6	12	Thur	1	careful satisfied rescue-required
+18	7	12	Thur	3	tips bored damage
+19	20	12	Thur	5	injured
+1	10	13	Fri	1.75	satisfied
+5	9	13	Fri	2	
+6	5	13	Fri	2	satisfied
+10	19	13	Fri	1.25	friendly
+11	15	13	Fri	1.25	careful bored
+15	16	13	Fri	1.75	
+15	18	13	Fri	3	helpful friendly hot rude tipped-over
+20	18	13	Fri	2	tips satisfied hot late tipped-over
+7	5	14	Sat	2	tips friendly
+8	6	14	Sat	2	careful friendly tired
+9	13	14	Sat	1.25	tired
+14	9	14	Sat	2	tired
+19	10	14	Sat	4.5	
+19	14	14	Sat	0.75	bored rude
+1	13	15	Sun	2.25	helpful
+3	7	15	Sun	5	rescue-required
+7	10	15	Sun	0.75	friendly
+9	8	15	Sun	1.75	helpful satisfied hot
+9	11	15	Sun	0.75	damage
+11	9	15	Sun	1.75	
+11	17	15	Sun	1.5	careful polite
+13	14	15	Sun	6	
+14	6	15	Sun	0.6	tips fun bored late
+14	7	15	Sun	1.5	damage
+14	11	15	Sun	1.5	tips bored tipped-over
+15	5	15	Sun	1.25	fun
+15	9	15	Sun	2	polite
+18	5	15	Sun	2	tips fun late
+19	15	15	Sun	0.5	tips polite
+20	17	15	Sun	4.5	tips satisfied
+2	7	16	Mon	0.75	tired injured
+11	14	16	Mon	1	hot
+2	12	17	Tues	2	happy tipped-over
+2	20	17	Tues	1	argued rescue-required
+3	16	17	Tues	1.5	polite
+3	19	17	Tues	1.5	careful satisfied hot
+5	1	17	Tues	7	careful friendly
+5	4	17	Tues	1.25	bored late
+5	6	17	Tues	2	tips satisfied
+5	9	17	Tues	2.5	
+5	16	17	Tues	1	
+6	7	17	Tues	4.5	
+6	9	17	Tues	4.5	
+7	11	17	Tues	1.25	helpful tired
+12	15	17	Tues	1	careful satisfied hot
+13	16	17	Tues	1	happy hot
+17	6	17	Tues	1.75	careful friendly hot
+17	20	17	Tues	2	bored
+19	4	17	Tues	1.75	polite late
+19	13	17	Tues	1.5	friendly
+7	12	18	Wed	2	tips tired
+11	5	18	Wed	2.5	careful hot
+12	10	18	Wed	6	late
+1	9	19	Thur	1	tired
+2	6	19	Thur	2.25	careful polite late
+3	2	19	Thur	4	
+4	1	19	Thur	3.6	helpful tired lost-paddle
+4	3	19	Thur	2	hot
+6	9	19	Thur	2.1	satisfied
+6	18	19	Thur	4.5	happy bored argued rescue-required
+7	9	19	Thur	2.5	hot
+10	1	19	Thur	6.5	helpful friendly
+10	11	19	Thur	0.75	helpful hot rescue-required
+10	19	19	Thur	2	
+10	20	19	Thur	2.5	hot rescue-required
+11	17	19	Thur	2	helpful fun
+11	19	19	Thur	1	happy hot
+13	16	19	Thur	1.5	friendly hot
+17	6	19	Thur	0.5	tips fun
+17	16	19	Thur	1.5	polite hot
+17	17	19	Thur	2.5	tips happy
+18	12	19	Thur	2	careful no-show
+12	10	20	Fri	4.5	rude
+3	11	21	Sat	1.75	helpful tired damage
+4	9	21	Sat	2	
+4	15	21	Sat	2.5	helpful
+5	12	21	Sat	1.5	tired
+6	2	21	Sat	4	helpful tired
+7	6	21	Sat	6	careful fun bored
+12	8	21	Sat	0.6	careful friendly no-show
+14	17	21	Sat	4	polite rude
+15	6	21	Sat	2	careful polite
+15	16	21	Sat	4	
+18	13	21	Sat	1.5	
+3	2	22	Sun	2.5	tired tipped-over
+7	3	22	Sun	1	helpful satisfied tired late
+7	15	22	Sun	3	
+12	5	22	Sun	4	tips
+13	9	22	Sun	1.25	
+13	18	22	Sun	2.1	helpful friendly tired damage
+15	4	22	Sun	0.6	helpful tired rude
+15	7	22	Sun	2.5	
+15	11	22	Sun	1.75	careful tipped-over
+16	12	22	Sun	2	careful fun
+18	20	22	Sun	5.25	tired rescue-required
+19	7	22	Sun	1.25	polite bored rescue-required
+19	9	22	Sun	2	lost-paddle
+20	6	22	Sun	5.25	helpful happy
+20	13	22	Sun	4	helpful friendly
+14	3	23	Mon	2.25	hot argued
+14	4	23	Mon	5.25	tired
+20	19	23	Mon	0.75	careful
+8	18	24	Tues	1	careful polite bored rude lost-paddle
+13	15	24	Tues	2	careful happy
+2	8	25	Wed	1	tips
+11	7	25	Wed	1	helpful happy hot damage
+16	11	25	Wed	0.75	careful tired tipped-over
+9	16	26	Thur	5	careful happy
+12	3	26	Thur	0.75	satisfied bored rude
+1	1	27	Fri	6	careful friendly
+9	13	27	Fri	5.25	fun
+10	2	27	Fri	4.5	
+16	4	27	Fri	2.25	bored
+17	6	27	Fri	3	helpful fun bored
+1	18	28	Sat	0.75	tips satisfied tired lost-paddle
+14	8	28	Sat	5	helpful polite bored
+15	18	28	Sat	0.5	tips satisfied hot argued tipped-over
+16	15	28	Sat	5	careful
+19	8	28	Sat	0.75	happy tired
+3	8	29	Sun	1	tips tired
+11	15	29	Sun	5	tips satisfied bored
+13	11	29	Sun	3	tips lost-paddle
+15	16	29	Sun	0.6	polite
+19	10	29	Sun	2.5	friendly
+4	11	30	Mon	2.1	tips tired rescue-required
+6	3	32	Wed	1.5	careful
+8	20	32	Wed	4.5	bored late non-payment
+6	18	33	Thur	3	tips happy hot rude rescue-required
+7	3	33	Thur	1.25	friendly late
+14	15	33	Thur	1.5	careful hot
+1	19	34	Fri	1.75	careful friendly
+10	20	34	Fri	2	tired no-show rescue-required
+12	2	34	Fri	6	
+17	2	34	Fri	2	bored
+6	16	35	Sat	0.5	
+13	11	35	Sat	6	careful non-payment
+14	17	35	Sat	2.5	tips satisfied
+19	10	35	Sat	0.6	late
+19	13	35	Sat	1.75	helpful bored
+19	18	35	Sat	4.25	helpful friendly tired rude lost-paddle
+20	18	35	Sat	1.5	careful fun hot late injured
+3	12	36	Sun	2	bored argued
+3	15	36	Sun	1.25	careful
+5	10	36	Sun	2.25	polite
+5	17	36	Sun	1	tips fun
+6	2	36	Sun	4	
+10	1	36	Sun	0.5	careful satisfied
+11	1	36	Sun	1	satisfied
+12	1	36	Sun	1.5	
+13	6	36	Sun	1.25	helpful friendly hot
+14	9	36	Sun	2	tips
+14	10	36	Sun	2.1	
+15	3	36	Sun	1	tired
+17	18	36	Sun	0.5	tips polite rude injured
+17	20	36	Sun	0.6	hot late
+19	10	36	Sun	4.25	argued
+19	13	36	Sun	4.25	fun
+20	4	36	Sun	0.6	
+20	16	36	Sun	1	satisfied
+12	9	37	Mon	0.75	tired late
+14	7	37	Mon	5	
+3	10	38	Tues	1	polite
+14	5	38	Tues	1.25	helpful polite
+20	9	38	Tues	2.1	
+20	20	38	Tues	1	late
+1	9	39	Wed	0.75	
+3	17	39	Wed	3.75	careful
+12	7	39	Wed	6	lost-paddle
+12	9	39	Wed	3.75	
+15	10	39	Wed	0.75	late
+20	2	39	Wed	2	hot
+20	9	39	Wed	1.25	fun
+9	16	40	Thur	3.75	fun
+20	9	40	Thur	2.1	
+5	19	41	Fri	3	tips friendly
+7	13	41	Fri	1	
+10	4	41	Fri	3	tired
+10	18	41	Fri	2.25	careful happy bored rescue-required
+11	6	41	Fri	1	tips fun
+12	20	41	Fri	2	rude
+18	7	41	Fri	1.75	
+1	18	42	Sat	2	careful fun no-show lost-paddle
+3	4	42	Sat	2	hot argued
+4	16	42	Sat	0.5	fun
+5	14	42	Sat	2	careful
+8	13	42	Sat	1.75	happy
+8	15	42	Sat	1.5	tips tired
+8	16	42	Sat	2	happy
+11	7	42	Sat	5.25	bored damage
+11	11	42	Sat	2	helpful
+12	20	42	Sat	1.75	injured
+13	17	42	Sat	6	careful satisfied
+16	2	42	Sat	2.1	helpful hot
+17	16	42	Sat	1.25	
+18	7	42	Sat	1	helpful rescue-required
+19	4	42	Sat	6	tired
+19	18	42	Sat	2.1	careful friendly tired rude lost-paddle
+5	17	43	Sun	2	tips polite
+6	1	43	Sun	4.25	helpful
+8	7	43	Sun	1.5	rescue-required
+8	13	43	Sun	1.25	polite
+13	8	43	Sun	1.5	helpful satisfied tired
+13	19	43	Sun	2.1	helpful
+16	1	43	Sun	1.75	careful happy
+16	6	43	Sun	0.5	helpful friendly
+18	3	43	Sun	0.75	polite argued
+19	5	43	Sun	2.1	helpful happy
+19	19	43	Sun	1.5	tips happy
+2	10	44	Mon	1.25	
+8	4	44	Mon	5.25	
+10	16	44	Mon	0.5	
+12	7	44	Mon	4	helpful
+20	3	45	Tues	0.75	fun bored
+4	11	46	Wed	1.25	non-payment
+6	9	46	Wed	5	
+10	8	46	Wed	5.25	helpful satisfied
+15	13	46	Wed	5.25	tips
+5	13	47	Thur	2	
+7	18	47	Thur	1.5	careful happy bored no-show damage
+10	6	47	Thur	0.6	tips fun argued
+10	9	47	Thur	2	fun lost-paddle
+10	20	47	Thur	2	rude non-payment
+11	2	47	Thur	1	tips
+11	3	47	Thur	2	polite bored
+11	7	47	Thur	6	helpful hot
+12	17	47	Thur	1	helpful friendly argued
+13	14	47	Thur	2.5	
+13	17	47	Thur	1.25	tips
+13	20	47	Thur	1.5	injured
+20	9	47	Thur	2	
+4	3	48	Fri	0.5	careful polite hot no-show
+13	8	48	Fri	1.75	tips
+5	2	49	Sat	2	tired
+14	16	49	Sat	4.25	helpful friendly tired
+1	1	50	Sun	10.5	careful friendly hot
+1	13	50	Sun	1.5	polite
+1	15	50	Sun	2.5	helpful polite
+3	18	50	Sun	3	tips fun bored no-show tipped-over
+4	6	50	Sun	0.6	careful happy
+5	3	50	Sun	2	
+5	4	50	Sun	3.75	bored
+6	12	50	Sun	3	helpful
+6	18	50	Sun	0.5	helpful satisfied tired late rescue-required
+9	5	50	Sun	2	tips polite
+9	12	50	Sun	0.75	helpful
+10	5	50	Sun	1	careful
+10	6	50	Sun	1.75	helpful fun
+10	7	50	Sun	4.5	tired damage
+14	6	50	Sun	4.25	careful friendly hot
+14	15	50	Sun	2.5	
+15	7	50	Sun	3	tips hot
+15	13	50	Sun	2	tips happy
+16	4	50	Sun	2.1	rude non-payment
+17	9	50	Sun	3	tired
+19	18	50	Sun	2	careful friendly hot late injured
+19	20	50	Sun	5.25	
+4	12	51	Mon	4.25	careful fun
+5	5	51	Mon	4.5	careful argued
+7	13	51	Mon	0.75	
+11	9	51	Mon	1.25	
+11	15	51	Mon	4.25	careful
+13	13	51	Mon	2	
+16	2	51	Mon	3.75	
+16	14	51	Mon	1.5	argued
+17	9	51	Mon	1.25	
+17	10	51	Mon	2	rude
+19	15	51	Mon	4	careful hot
+2	9	52	Tues	3	friendly
+2	11	52	Tues	5.25	careful bored injured
+4	4	52	Tues	2	no-show
+4	18	52	Tues	2	helpful friendly no-show tipped-over
+5	5	52	Tues	6	tips polite
+11	14	52	Tues	2	tired
+13	16	52	Tues	5	
+13	17	52	Tues	1.5	careful
+13	20	52	Tues	1.75	bored late
+18	3	52	Tues	1.75	tips
+20	18	52	Tues	0.6	helpful friendly argued injured
+4	2	53	Wed	2.25	
+4	6	53	Wed	1	helpful happy
+4	16	53	Wed	3.75	friendly
+5	12	53	Wed	2	tips hot
+5	19	53	Wed	3	helpful fun tired
+6	18	53	Wed	1	helpful happy bored late lost-paddle
+9	14	53	Wed	2	
+9	18	53	Wed	2	tips satisfied hot late rescue-required
+11	15	53	Wed	0.6	careful fun hot
+14	6	53	Wed	2	careful satisfied
+19	2	53	Wed	1.75	
+4	14	54	Thur	3.75	
+12	16	54	Thur	0.5	
+13	4	54	Thur	2	tips satisfied late
+13	9	54	Thur	6	bored
+14	11	54	Thur	6	tips bored
+17	17	54	Thur	3	helpful polite
+17	18	54	Thur	4.25	helpful friendly hot non-payment
+18	10	54	Thur	1.25	late
+1	10	55	Fri	1.25	
+2	7	55	Fri	1	helpful lost-paddle
+3	12	55	Fri	0.6	careful satisfied
+6	17	55	Fri	1.25	helpful polite
+8	15	55	Fri	4.5	tips
+12	15	55	Fri	1.25	tips bored
+17	1	55	Fri	4.5	careful satisfied
+19	5	55	Fri	5	helpful
+19	18	55	Fri	2	careful happy tired argued tipped-over
+4	9	56	Sat	1.75	bored
+6	20	56	Sat	1	tired argued tipped-over
+9	7	56	Sat	1.5	tired argued tipped-over
+10	2	56	Sat	1.25	rude
+10	13	56	Sat	4.5	tips
+10	19	56	Sat	2	happy
+11	4	56	Sat	2.25	tipped-over
+13	2	56	Sat	2.1	
+18	19	56	Sat	2.5	polite no-show
+19	10	56	Sat	3.75	fun rude
+1	1	57	Sun	6.25	satisfied
+2	16	57	Sun	1	
+3	4	57	Sun	5.25	no-show
+4	7	57	Sun	2	no-show injured
+4	14	57	Sun	2	bored
+5	3	57	Sun	2	fun bored no-show
+8	12	57	Sun	2.25	tips argued
+13	20	57	Sun	5	argued
+5	8	58	Mon	4.5	helpful tired
+2	1	59	Tues	4.5	tips fun rude
+2	2	59	Tues	2	tips happy
+2	5	59	Tues	4	tips happy
+3	16	59	Tues	2.25	happy
+3	18	59	Tues	1	careful tired late tipped-over
+8	17	59	Tues	3.75	helpful friendly
+10	12	59	Tues	6	helpful
+11	7	59	Tues	2	
+14	19	59	Tues	0.5	polite bored no-show
+16	8	59	Tues	2.1	helpful fun
+17	19	59	Tues	5.25	careful
+15	6	60	Wed	6	tips polite
+4	5	61	Thur	2	helpful fun
+4	13	61	Thur	1.25	
+6	7	61	Thur	1.75	rude injured
+18	12	61	Thur	2	tips
+6	15	62	Fri	2	helpful tired
+7	4	62	Fri	4.25	happy
+12	15	62	Fri	2	careful
+14	16	62	Fri	2	careful fun
+19	2	63	Sat	4.25	bored
+1	12	64	Sun	0.5	tips fun
+2	8	64	Sun	2	helpful satisfied
+3	1	64	Sun	4	tips friendly
+3	2	64	Sun	2.1	
+3	20	64	Sun	1	bored no-show damage
+4	17	64	Sun	0.6	helpful polite
+6	3	64	Sun	4	helpful friendly bored injured
+6	14	64	Sun	2	
+7	20	64	Sun	5	bored late lost-paddle
+8	5	64	Sun	4	careful fun
+11	7	64	Sun	1.75	bored no-show tipped-over
+12	20	64	Sun	2	tired tipped-over
+13	5	64	Sun	0.5	friendly
+13	17	64	Sun	2	helpful friendly
+13	20	64	Sun	3.75	tired late damage
+14	2	64	Sun	4	
+15	7	64	Sun	1	tips bored
+15	19	64	Sun	2	tips
+16	20	64	Sun	3.75	bored
+18	15	64	Sun	1.5	careful hot
+19	10	64	Sun	1	satisfied argued
+19	13	64	Sun	2	polite
+20	13	64	Sun	1.5	
+3	12	65	Mon	5.25	helpful happy hot rude
+5	16	65	Mon	0.6	happy
+7	1	65	Mon	4.5	careful
+8	6	65	Mon	5.25	tips happy bored
+19	1	65	Mon	7	tips
+6	14	66	Tues	1.25	bored
+9	15	66	Tues	1.5	
+11	15	66	Tues	2	tips happy hot
+12	14	66	Tues	2	tired no-show
+15	5	66	Tues	5.25	helpful fun
+17	6	66	Tues	2	helpful satisfied
+18	16	66	Tues	1.5	friendly
+9	14	67	Wed	2	
+15	15	67	Wed	2	tips friendly
+13	1	68	Thur	1.25	fun
+13	16	68	Thur	6	tired
+5	13	69	Fri	4.25	
+8	15	69	Fri	2	helpful
+12	7	69	Fri	0.5	helpful no-show lost-paddle
+15	18	69	Fri	0.6	tips fun tired no-show damage
+18	5	69	Fri	1.25	careful late
+18	14	69	Fri	2	bored
+20	14	69	Fri	1.5	rude
+4	18	70	Sat	2	tips satisfied bored
+7	2	70	Sat	1.5	
+7	12	70	Sat	4	careful argued
+9	8	70	Sat	2	helpful polite
+10	4	70	Sat	4.25	careful fun hot no-show
+11	4	70	Sat	1.5	polite tired
+11	5	70	Sat	2	helpful bored
+11	17	70	Sat	2.5	helpful fun
+12	11	70	Sat	1	helpful damage
+13	1	70	Sat	7	tips
+14	13	70	Sat	1.25	
+16	11	70	Sat	2	tips injured
+16	13	70	Sat	2.5	tips
+17	12	70	Sat	1	tips rescue-required
+19	6	70	Sat	2.5	tips friendly bored
+20	3	70	Sat	4.5	helpful hot
+20	10	70	Sat	2	argued
+20	17	70	Sat	1.5	careful polite
+5	1	71	Sun	6.5	
+5	19	71	Sun	1.25	helpful polite argued
+7	5	71	Sun	1	tips rude
+7	8	71	Sun	6	happy tired
+7	20	71	Sun	5.25	bored rescue-required
+8	12	71	Sun	2	hot
+9	1	71	Sun	2	happy
+10	18	71	Sun	4	careful friendly hot argued rescue-required
+12	2	71	Sun	2.1	
+13	2	71	Sun	1.25	
+13	4	71	Sun	2	hot
+14	11	71	Sun	1.5	tips tipped-over
+19	10	71	Sun	1	friendly
+20	20	71	Sun	1.75	injured
+16	8	72	Mon	3.75	fun
+1	16	73	Tues	1	
+3	3	73	Tues	1	friendly
+4	16	73	Tues	5.25	friendly argued
+5	10	73	Tues	1.25	late
+5	13	73	Tues	5.25	friendly
+5	17	73	Tues	5.25	helpful happy
+5	20	73	Tues	2	rescue-required
+10	9	73	Tues	1.25	satisfied
+12	11	73	Tues	1.75	careful damage
+14	3	73	Tues	2	helpful happy bored no-show
+15	4	73	Tues	1.5	bored
+16	1	73	Tues	0.75	helpful fun bored
+16	7	73	Tues	5	rude
+17	8	73	Tues	3.75	helpful fun bored
+18	10	73	Tues	4.5	rude
+5	18	74	Wed	2	careful friendly tired rude injured
+2	3	75	Thur	6	bored argued
+5	20	75	Thur	2	bored damage
+6	20	75	Thur	1.25	late tipped-over
+13	3	75	Thur	1.5	satisfied bored
+14	14	75	Thur	1.25	
+17	8	75	Thur	1	helpful happy tired
+18	20	75	Thur	0.6	tipped-over

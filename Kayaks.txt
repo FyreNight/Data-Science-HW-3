@@ -1,0 +1,21 @@
+id	shop	weekday_rate	color	note
+1	north	5.25	red	bow leak patched
+2	north	5.25	red	
+3	north	7	red	
+4	north	7	red	
+5	north	5.25	yellow	
+6	north	5.25	yellow	
+7	north	9	green	double
+8	north	9	red	double
+9	north	9	green	double
+10	west	4.5	green	getting old
+11	west	4.5	green	getting old
+12	west	6.5	red	
+13	west	6.5	red	
+14	west	8	red	
+15	west	8	yellow	
+16	west	8.75	black	double
+17	east	15	red	double
+18	east	13.75	yellow	
+19	east	14	yellow	
+20	east	5	black	getting old

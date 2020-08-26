@@ -1,0 +1,21 @@
+customerID	customerName	favoriteKayak	totalRentalTime
+1	avril abbington	1	104.55
+2	barbara billingsworth	3	71.4
+3	carl clodhopper	4	38.5
+4	dvorak davidson	3	66.4
+5	eliazer eriksson	5	59.6
+6	fantina fantastic	14	64.80000000000001
+7	garry groundling	11	78.25
+8	helen hart	2	43.7
+9	isabelle isador	20	78.05000000000001
+10	jeri jumpy	19	57.45
+11	kathy klondike	14	42.85
+12	larry lawrence	3	48.7
+13	montasa moncrief	5	67.5
+14	nora nopa	4	41.5
+15	olive olgethorn	11	57.1
+16	penelope perseverer	4	66.95
+17	queztal quiggles	13	58.1
+18	roger rabite	19	71.9
+19	sammy starboard	10	46.95
+20	tammy thelibrarian	13	79.19999999999999

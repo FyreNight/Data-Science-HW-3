@@ -1,0 +1,6 @@
+bestCustomer_ID,bestCustomer_Score,best_sex,worstCustomer_ID,worstCustomer_Score,worst_sex
+5,1.35,,11,-0.1951,F
+1,1.4444,F,18,-0.2089,M
+13,1.4762,,14,-0.2308,F
+15,1.5854,F,7,-0.9574,M
+17,1.6739,X,20,-1.7368,F

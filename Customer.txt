@@ -1,0 +1,21 @@
+id	first	last	sex	over_25	stored_card
+1	avril	abbington	F	TRUE	TRUE
+2	barbara	billingsworth	F	TRUE	TRUE
+3	carl	clodhopper	M	FALSE	TRUE
+4	dvorak	davidson	X	FALSE	TRUE
+5	eliazer	eriksson		FALSE	FALSE
+6	fantina	fantastic	F	TRUE	TRUE
+7	garry	groundling	M	TRUE	TRUE
+8	helen	hart	M	TRUE	TRUE
+9	isabelle	isador	F	FALSE	FALSE
+10	jeri	jumpy	X	FALSE	TRUE
+11	kathy	klondike	F	TRUE	TRUE
+12	larry	lawrence	M	TRUE	TRUE
+13	montasa	moncrief		TRUE	FALSE
+14	nora	nopa	F	FALSE	TRUE
+15	olive	olgethorn	F	TRUE	TRUE
+16	penelope	perseverer	F	TRUE	TRUE
+17	queztal	quiggles	X	FALSE	TRUE
+18	roger	rabite	M	TRUE	FALSE
+19	sammy	starboard	M	TRUE	TRUE
+20	tammy	thelibrarian	F	FALSE	TRUE
